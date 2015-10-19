@@ -1,0 +1,7 @@
+﻿if ImageFound( "emptyBox")
+	click FoundImageLocation()
+else
+	log "Checkbox was selected"
+end if
+click "Submit"
+click "Reset"

@@ -1,0 +1,8 @@
+﻿2015-10-19 15:08:03.499 -0400	START		Running Test.script
+2015-10-19 15:08:04.239 -0400	click	MacSearch	at (959, 13)	1	on_test	Test.script
+2015-10-19 15:08:05.041 -0400	typetext		terminal	2	on_test	Test.script
+2015-10-19 15:08:05.754 -0400	typetext		[returnKey]	3	on_test	Test.script
+2015-10-19 15:08:08.060 -0400	typetext		sudo curl -L -O -C - --retry 999 --retry-max-time 0 http://downloads.filewave.com/10.0.0/FileWave_OSX_10.0.0.dmg -#[returnKey]filewave[returnKey]	4	on_test	Test.script
+2015-10-19 15:08:27.128 -0400	Exception	completed	Unable To Find Any Image On Screen "completed" within 8.00 seconds	5	on_test	Test.script
+2015-10-19 15:08:27.182 -0400	EndTestCase		(Duration:"23.680869", Errors:"1", Exceptions:"1", StartTime:"2015-10-19 15:08:03 -0400", Successes:"0", TestCase:"Test.script", Warnings:"0")
+2015-10-19 15:08:27.183 -0400	ABORTED		Execution Time 0:00:23 Test.script

@@ -1,0 +1,6 @@
+﻿2015-10-19 13:56:15.502 -0400	START		Running Tutorial 3.script
+2015-10-19 13:56:16.173 -0400	imagefound	emptyBox	found at (434, 207)	1	on_tutorial_3	Tutorial 3.script
+2015-10-19 13:56:16.259 -0400	click		at (434, 207)	2	on_tutorial_3	Tutorial 3.script
+2015-10-19 13:56:28.218 -0400	Exception	Submit	No Image Found On Screen: "Submit"	6	on_tutorial_3	Tutorial 3.script
+2015-10-19 13:56:28.305 -0400	EndTestCase		(Duration:"12.800915", Errors:"1", Exceptions:"1", StartTime:"2015-10-19 13:56:15 -0400", Successes:"0", TestCase:"Tutorial 3.script", Warnings:"0")
+2015-10-19 13:56:28.306 -0400	ABORTED		Execution Time 0:00:12 Tutorial 3.script

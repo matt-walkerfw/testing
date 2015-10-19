@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Tutorial 2">
+ <run>
+  <RunDate>2015-10-19 13:53:40.117 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>8.090213</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20151019_135340.117/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

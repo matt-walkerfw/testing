@@ -1,0 +1,15 @@
+﻿2015-10-19 14:00:50.945 -0400	START		Running Tutorial 4.script
+2015-10-19 14:00:51.577 -0400	imagefound	closeButton	found at (35, 248)	1	on_tutorial_4	Tutorial 4.script
+2015-10-19 14:00:51.661 -0400	click		at (35, 248)	2	on_tutorial_4	Tutorial 4.script
+2015-10-19 14:00:52.968 -0400	imagefound	closeButton	found at (163, 248)	3	on_tutorial_4	Tutorial 4.script
+2015-10-19 14:00:53.053 -0400	click		at (163, 248)	2	on_tutorial_4	Tutorial 4.script
+2015-10-19 14:00:54.369 -0400	imagefound	closeButton	found at (163, 328)	3	on_tutorial_4	Tutorial 4.script
+2015-10-19 14:00:54.453 -0400	click		at (163, 328)	2	on_tutorial_4	Tutorial 4.script
+2015-10-19 14:00:55.765 -0400	imagefound	closeButton	found at (291, 328)	3	on_tutorial_4	Tutorial 4.script
+2015-10-19 14:00:55.850 -0400	click		at (291, 328)	2	on_tutorial_4	Tutorial 4.script
+2015-10-19 14:00:57.782 -0400	imagefound	closeButton	found at (35, 328)	3	on_tutorial_4	Tutorial 4.script
+2015-10-19 14:00:57.865 -0400	click		at (35, 328)	2	on_tutorial_4	Tutorial 4.script
+2015-10-19 14:01:08.633 -0400	imagefound	closeButton	Unable to Find Image closeButton	3	on_tutorial_4	Tutorial 4.script
+2015-10-19 14:01:09.343 -0400	click	Reset	at (399, 462)	4	on_tutorial_4	Tutorial 4.script
+2015-10-19 14:01:09.375 -0400	EndTestCase		(Duration:"18.428071", Errors:"0", Exceptions:"0", StartTime:"2015-10-19 14:00:50 -0400", Successes:"1", TestCase:"Tutorial 4.script", Warnings:"0")
+2015-10-19 14:01:09.383 -0400	SUCCESS		Execution Time 0:00:18 Tutorial 4.script

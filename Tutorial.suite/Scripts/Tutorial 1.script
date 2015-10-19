@@ -1,0 +1,5 @@
+﻿click "Button1"
+click "Button2"
+WaitFor 10.0, "Button3"
+click "Button3"
+click "Reset"

@@ -1,0 +1,4 @@
+﻿repeat while ImageFound("closeButton")
+	click FoundImageLocation()
+end repeat
+click "Reset"

@@ -1,0 +1,4 @@
+﻿2015-10-19 13:40:54.557 -0400	START		Running Tutorial 1.script
+2015-10-19 13:40:54.596 -0400	Exception	Button1	Could Not Open Image: Button1	1	on_tutorial_1	Tutorial 1.script
+2015-10-19 13:40:54.628 -0400	EndTestCase		(Duration:"0.06369", Errors:"1", Exceptions:"1", StartTime:"2015-10-19 13:40:54 -0400", Successes:"0", TestCase:"Tutorial 1.script", Warnings:"0")
+2015-10-19 13:40:56.643 -0400	FAILURE	Screen_Error.tiff	File Not Found click Error - Could Not Open Image: Button1 -- Execution Time 0:00:00 Tutorial 1.script

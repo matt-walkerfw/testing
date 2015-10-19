@@ -1,0 +1,6 @@
+﻿2015-10-19 13:44:04.056 -0400	START		Running Tutorial 1.script
+2015-10-19 13:44:05.321 -0400	click	Button1	at (399, 202)	1	on_tutorial_1	Tutorial 1.script
+2015-10-19 13:44:07.206 -0400	click	Button2	at (398, 260)	2	on_tutorial_1	Tutorial 1.script
+2015-10-19 13:44:13.665 -0400	waitfor	Button3	found at (398, 316)	3	on_tutorial_1	Tutorial 1.script
+2015-10-19 13:44:13.692 -0400	EndTestCase		(Duration:"9.633479", Errors:"0", Exceptions:"0", StartTime:"2015-10-19 13:44:04 -0400", Successes:"1", TestCase:"Tutorial 1.script", Warnings:"0")
+2015-10-19 13:44:13.701 -0400	SUCCESS		Execution Time 0:00:09 Tutorial 1.script

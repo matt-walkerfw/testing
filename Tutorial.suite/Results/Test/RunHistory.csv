@@ -1,0 +1,2 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2015-10-19 15:03:00.623 -0400,"Failure",0:00:15,1,0,1,"20151019_150300.623/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""cursor""",0

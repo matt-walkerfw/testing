@@ -1,0 +1,61 @@
+﻿Click "MacSearch"
+TypeText "terminal"
+TypeText returnKey
+TypeText "sudo curl -L -O -C - --retry 999 --retry-max-time 0 http://downloads.filewave.com/10.0.0/FileWave_OSX_10.0.0.dmg -#", returnKey
+repeat while not ImageFound("completed")
+	wait 1
+end repeat
+Click "finder"
+DoubleClick (Image:"FileWaveOSX100dmg", WaitFor:4.4)
+DoubleClick (Image:"FileWaveServerpkg", WaitFor:6.8)
+Click (Image:"Continue", WaitFor:4.6)
+Click (Image:"Continue", WaitFor:4.6)
+Click (Image:"Continue", WaitFor:4.6)
+Click "Agree"
+Click "Install"
+wait 2
+TypeText "filewave",returnKey
+WaitFor 360.0, "Close"
+Click (Image:"Close", WaitFor:8)
+DoubleClick (Image:"FileWaveAdminpkg", WaitFor:14.8)
+Click (Image:"Continue", WaitFor:14.8)
+Click (Image:"Continue", WaitFor:14.8)
+Click (Image:"Continue", WaitFor:14.8)
+Click (Image:"Agree", WaitFor:14.8)
+Click (Image:"Install", WaitFor:14.8)
+wait 5
+TypeText "filewave",returnKey
+WaitFor 360.0, "Close"
+Click "redClose"
+Click "redClose"
+Click "redClose/redClose2"
+Click "finder"
+Click "Applications"
+Click "toggleView"
+Click "FileWave"
+DoubleClick "FileWaveAdmin"
+TypeText "filewave",returnKey
+TypeText commandKey,","
+Click (Image:"Mobile", WaitFor:4)
+Click "greenButton"
+Click (Image:"okay", WaitFor:29)
+Click "Clients"
+Click "NewClient"
+Click "checkedIn"
+Click "checkBox"
+Click (Image:"Save", WaitFor:16.1)
+Click "UpdateModel"
+Click (Image:"UpdateModel_1", WaitFor:20)
+TypeText Return
+Click "Filesets"
+Click "NewDesktopFileset"
+Click (Image:"Empty", WaitFor:8.6)
+TypeText "fileset"
+TypeText Return
+Click "NewAssociation"
+Click "mQAMDI"
+Click (Image:"CreateAssociation", WaitFor:14.1)
+Click (Image:"UpdateModel", WaitFor:14.1)
+Click (Image:"UpdateModel_1", WaitFor:14.1)
+WaitFor 44.0, "UpdateServerModelUpdatedSucces"
+TypeText Return

@@ -1,0 +1,9 @@
+﻿Drag "greenArrow"
+Drop "purpleArrow"
+TypeText commandKey, "c"
+Click "clickField"
+TypeText commandKey, "v"
+click "Submit"
+click "Reset"
+
+

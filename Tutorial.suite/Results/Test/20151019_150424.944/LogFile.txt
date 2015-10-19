@@ -1,0 +1,9 @@
+﻿2015-10-19 15:04:24.947 -0400	START		Running Test.script
+2015-10-19 15:04:26.930 -0400	click	MacSearch	at (959, 13)	1	on_test	Test.script
+2015-10-19 15:04:27.733 -0400	typetext		terminal	2	on_test	Test.script
+2015-10-19 15:04:28.448 -0400	typetext		[returnKey]	3	on_test	Test.script
+2015-10-19 15:04:30.721 -0400	typetext		sudo curl -L -O -C - --retry 999 --retry-max-time 0 http://downloads.filewave.com/10.0.0/FileWave_OSX_10.0.0.dmg -#[returnKey]filewave[returnKey]	4	on_test	Test.script
+2015-10-19 15:04:31.594 -0400	click	finder	at (65, 733)	5	on_test	Test.script
+2015-10-19 15:04:38.653 -0400	Exception	FileWaveOSX100dmg	No Image Found On Screen: "FileWaveOSX100dmg"	6	on_test	Test.script
+2015-10-19 15:04:38.700 -0400	EndTestCase		(Duration:"13.748252", Errors:"1", Exceptions:"1", StartTime:"2015-10-19 15:04:24 -0400", Successes:"0", TestCase:"Test.script", Warnings:"0")
+2015-10-19 15:04:38.702 -0400	ABORTED		Execution Time 0:00:13 Test.script

@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2015-10-19 13:40:54.552 -0400,"Failure",0:00:00,1,0,1,"20151019_134054.552/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Button1",0
+2015-10-19 13:44:04.055 -0400,"Success",0:00:09,0,0,0,"20151019_134404.055/LogFile.txt","","",1
+2015-10-19 13:44:38.569 -0400,"Running",0:00:00,0,0,0,"20151019_134438.569/LogFile.txt","","",0
+2015-10-19 13:45:10.271 -0400,"Success",0:00:08,0,0,0,"20151019_134510.271/LogFile.txt","","",1
+2015-10-19 13:46:22.429 -0400,"Success",0:00:09,0,0,0,"20151019_134622.429/LogFile.txt","","",1

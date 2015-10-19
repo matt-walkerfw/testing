@@ -1,0 +1,5 @@
+﻿2015-10-19 13:44:38.570 -0400	START		Running Tutorial 1.script
+2015-10-19 13:44:39.198 -0400	click	Button1	at (398, 202)	1	on_tutorial_1	Tutorial 1.script
+2015-10-19 13:45:02.919 -0400	Exception	Button2	No Image Found On Screen: "Button2"	2	on_tutorial_1	Tutorial 1.script
+2015-10-19 13:45:02.955 -0400	EndTestCase		(Duration:"24.382991", Errors:"1", Exceptions:"1", StartTime:"2015-10-19 13:44:38 -0400", Successes:"0", TestCase:"Tutorial 1.script", Warnings:"0")
+2015-10-19 13:45:02.956 -0400	ABORTED		Execution Time 0:00:24 Tutorial 1.script

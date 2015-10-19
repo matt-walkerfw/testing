@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Test">
+ <run>
+  <RunDate>2015-10-19 15:03:00.623 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>15.758798</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20151019_150300.623/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;cursor&quot;</ErrorMessage>
+ </run>
+</runHistory>

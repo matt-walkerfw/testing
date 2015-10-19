@@ -1,0 +1,7 @@
+﻿2015-10-19 13:56:33.534 -0400	START		Running Tutorial 3.script
+2015-10-19 13:56:34.142 -0400	imagefound	emptyBox	found at (434, 247)	1	on_tutorial_3	Tutorial 3.script
+2015-10-19 13:56:34.228 -0400	click		at (434, 247)	2	on_tutorial_3	Tutorial 3.script
+2015-10-19 13:56:35.596 -0400	click	Submit	at (398, 348)	6	on_tutorial_3	Tutorial 3.script
+2015-10-19 13:56:36.965 -0400	click	Reset	at (399, 408)	7	on_tutorial_3	Tutorial 3.script
+2015-10-19 13:56:36.995 -0400	EndTestCase		(Duration:"3.458862", Errors:"0", Exceptions:"0", StartTime:"2015-10-19 13:56:33 -0400", Successes:"1", TestCase:"Tutorial 3.script", Warnings:"0")
+2015-10-19 13:56:37.003 -0400	SUCCESS		Execution Time 0:00:03 Tutorial 3.script

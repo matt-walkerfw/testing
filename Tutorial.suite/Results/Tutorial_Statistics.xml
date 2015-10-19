@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Test">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2015-10-19 15:03:00 -0400</FirstRun>
+  <LastRun>2015-10-19 15:03:00 -0400</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Tutorial 1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2015-10-19 13:40:54 -0400</FirstRun>
+  <LastRun>2015-10-19 13:46:22 -0400</LastRun>
+  <TotalTimeOnSuccess>28.035955</TotalTimeOnSuccess>
+ </script>
+ <script name="Tutorial 3">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2015-10-19 13:56:33 -0400</FirstRun>
+  <LastRun>2015-10-19 13:56:33 -0400</LastRun>
+  <TotalTimeOnSuccess>3.460589</TotalTimeOnSuccess>
+ </script>
+ <script name="Tutorial 4">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2015-10-19 14:00:50 -0400</FirstRun>
+  <LastRun>2015-10-19 14:00:50 -0400</LastRun>
+  <TotalTimeOnSuccess>18.430288</TotalTimeOnSuccess>
+ </script>
+ <script name="Tutorial 2">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2015-10-19 13:53:40 -0400</FirstRun>
+  <LastRun>2015-10-19 13:53:40 -0400</LastRun>
+  <TotalTimeOnSuccess>8.090213</TotalTimeOnSuccess>
+ </script>
+</statistics>

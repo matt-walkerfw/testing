@@ -1,0 +1,7 @@
+﻿2015-10-19 15:03:00.624 -0400	START		Running Test.script
+2015-10-19 15:03:02.592 -0400	click	MacSearch	at (959, 13)	1	on_test	Test.script
+2015-10-19 15:03:03.397 -0400	typetext		terminal	2	on_test	Test.script
+2015-10-19 15:03:04.111 -0400	typetext		[returnKey]	3	on_test	Test.script
+2015-10-19 15:03:16.321 -0400	Exception	cursor	No Image Found On Screen: "cursor"	4	on_test	Test.script
+2015-10-19 15:03:16.383 -0400	EndTestCase		(Duration:"15.755511", Errors:"1", Exceptions:"1", StartTime:"2015-10-19 15:03:00 -0400", Successes:"0", TestCase:"Test.script", Warnings:"0")
+2015-10-19 15:03:16.408 -0400	FAILURE	Screen_Error.tiff	Image Not Found click Error - No Image Found On Screen: "cursor" -- Execution Time 0:00:15 Test.script

@@ -1,0 +1,10 @@
+﻿2015-10-19 13:53:40.120 -0400	START		Running Tutorial 2.script
+2015-10-19 13:53:40.848 -0400	drag	greenArrow	at (237, 232)	1	on_tutorial_2	Tutorial 2.script
+2015-10-19 13:53:42.641 -0400	drop	purpleArrow	at (421, 231)	2	on_tutorial_2	Tutorial 2.script
+2015-10-19 13:53:43.364 -0400	typetext		[commandKey]c	3	on_tutorial_2	Tutorial 2.script
+2015-10-19 13:53:44.774 -0400	click	clickField	at (394, 415)	4	on_tutorial_2	Tutorial 2.script
+2015-10-19 13:53:45.498 -0400	typetext		[commandKey]v	5	on_tutorial_2	Tutorial 2.script
+2015-10-19 13:53:46.670 -0400	click	Submit	at (398, 513)	6	on_tutorial_2	Tutorial 2.script
+2015-10-19 13:53:48.115 -0400	click	Reset	at (218, 304)	7	on_tutorial_2	Tutorial 2.script
+2015-10-19 13:53:48.209 -0400	EndTestCase		(Duration:"8.085674", Errors:"0", Exceptions:"0", StartTime:"2015-10-19 13:53:40 -0400", Successes:"1", TestCase:"Tutorial 2.script", Warnings:"0")
+2015-10-19 13:53:48.277 -0400	SUCCESS		Execution Time 0:00:08 Tutorial 2.script
